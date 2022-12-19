@@ -19,7 +19,7 @@ a {
 .main-container{
 max-width: 1400px; 
 margin: auto;
-width: 88%;
+width: 95%;
 
 }
 .layout{
@@ -596,7 +596,7 @@ padding: 6px;
 .success-wrapper, .cancel-wrapper{
   background-color: white;
   min-height: 60vh;
-
+  
 }
 .success, .cancel{
   width: 1000px;
